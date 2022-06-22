@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSha-sys
 - 👀 I’m interested in learning more about Dev
-- 🌱 I’m currently brushing up on fundamentals using the ODn project
+- 🌱 I’m currently brushing up on fundamentals using the Odin project
 - 💞️ I’m looking to collaborate on ways to further my learning
 
 
